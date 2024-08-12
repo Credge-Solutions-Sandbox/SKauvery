@@ -1,2 +1,2 @@
 # SKauvery
-Welcome !!!
+Welcome to my history, list and updates of project changes !!!
